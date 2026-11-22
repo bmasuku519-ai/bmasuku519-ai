@@ -1,244 +1,202 @@
-<div align="center">
+<!-- ================================================= -->
+<!--              BONGIWE GITHUB PROFILE               -->
+<!-- ================================================= -->
 
-# 👩‍💻 BONGIWE | SOFTWARE DEVELOPER IN PROGRESS
+<h1 align="center">👩‍💻 BONGIWE MASUKU</h1>
 
-### Building Ideas Into Technology. Learning Through Code. Creating the Future.
+<h3 align="center">
+  Aspiring Software Developer | C++ Programmer | AI Enthusiast
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;C%2B%2B+Developer+in+Progress;Exploring+Artificial+Intelligence;Building+Banking+Systems;Innovating+Through+Technology" />
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:001F3F,100:00D9FF&height=120&section=header"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00D9FF)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue)
-
-</div>
-
----
-
-# 🌟 ABOUT ME
-
-Hello! I'm Bongiwe, an aspiring software developer with a passion for programming, artificial intelligence, financial technology and innovative software solutions.
-
-I'm interested in understanding how technology works and using programming to create systems that solve real-world problems.
-
-I believe that every great software developer starts with curiosity, creativity and the willingness to learn.
-
-### 👩‍💻 Developer Introduction
-
-- 🔭 **Currently working on:** A Banking Management System using C++.
-- 🌱 **Currently learning:** C++, SQL, Database Management and HTML.
-- 👯 **Looking to collaborate on:** Innovative software applications and beginner-friendly programming projects.
-- 🤔 **Looking for help with:** Advanced C++, artificial intelligence, database development and software architecture.
-- 💬 **Ask me about:** C++, banking systems, computer fundamentals and programming.
-- 📫 **How to reach me:** GitHub and LinkedIn.
-- ⚡ **Fun fact:** I enjoy turning creative ideas into working software applications.
+<p align="center">
+  Welcome to my GitHub profile! 🚀
+  <br>
+  I am passionate about programming, technology, artificial intelligence
+  and developing solutions that solve real-world problems.
+</p>
 
 ---
 
-# 💻 MY TECHNOLOGY INTERESTS
+## 🌍 CONNECT WITH ME
 
-| Technology | My Interest |
-|---|---|
-| 💻 C++ | Software and application development |
-| 🤖 Artificial Intelligence | Intelligent applications and automation |
-| 🏦 FinTech | Banking and financial management systems |
-| 🔐 Cybersecurity | Digital security and access management |
-| 🗄️ SQL | Database creation and management |
-| 📊 Excel VBA | Financial and business applications |
-| 🌐 Web Development | Interactive websites and applications |
+<p align="center">
+
+<a href="https://github.com/bmasuku519-ai">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/bongiwe-masuku-a1b971442">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:bmasuku519@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+📧 **Email:** bmasuku519@gmail.com
+
+💻 **GitHub:** https://github.com/bmasuku519-ai
+
+💼 **LinkedIn:** https://www.linkedin.com/in/bongiwe-masuku-a1b971442
+
+📂 **My Repositories:** 
+https://github.com/bmasuku519-ai?tab=repositories
 
 ---
 
-# 🚀 MY PROJECT PORTFOLIO
+## 👩‍💻 ABOUT ME
 
-## 🏦 01. GCC BANK MANAGEMENT SYSTEM
+- 🔭 Currently working on: Banking Management System.
+- 🌱 Currently learning: C++, SQL, HTML, CSS and Excel VBA.
+- 👯 Looking to collaborate on: Beginner programming and software development projects.
+- 🤔 Looking for help with: Advanced C++, AI development and database management.
+- 💬 Ask me about: C++, programming basics, SQL and computer systems.
+- ⚡ Fun fact: I enjoy turning creative ideas into technology projects.
+- 🎯 Goal: To become a professional software developer.
 
-**Project Type:** Banking and Financial Technology  
-**Programming Language:** C++
+---
 
-A banking application designed to manage customer accounts and financial transactions.
+## 🚀 MY PROJECTS
 
-### Features
+### 🏦 1. GCC Banking Management System
+**Technology: C++**
+
+A beginner-friendly banking application designed to manage customer accounts and banking transactions.
+
+Features:
 - Customer registration.
-- Account number management.
-- PIN authentication.
-- Check account balances.
+- Account number and PIN management.
+- Check account balance.
 - Deposit money.
 - Withdraw money.
 - Transfer money.
 - Banking menu system.
 
-**Goal:** Develop a functional banking application while improving my C++ programming skills.
+### 🤖 2. AI Life Companion
+**Technology: C++**
 
----
+An original project idea focused on creating an intelligent digital assistant.
 
-## 🤖 02. AI LIFE COMPANION
+Planned features:
+- Interactive user interface.
+- Personal reminders.
+- Daily task management.
+- Basic question-and-answer functionality.
+- Future AI integration.
 
-**Project Type:** Artificial Intelligence  
-**Programming Language:** C++
+### 🔐 3. Employee Access Management System
+**Technology: C++**
 
-An innovative AI assistant concept designed to help people organise their everyday activities and access useful information.
+A proposed employee management system designed to help organisations manage workplace access.
 
-### Planned Features
-- Intelligent assistant.
-- Interactive conversations.
-- Personal task management.
-- Smart reminders.
-- Information assistance.
-- Personal productivity tools.
-
-**Goal:** Explore how artificial intelligence can make everyday life easier.
-
----
-
-## 🔐 03. EMPLOYEE ACCESS MANAGEMENT SYSTEM
-
-**Project Type:** Business Software and Security  
-**Programming Language:** C++
-
-A workplace management system concept designed to manage employee registration and authorised access.
-
-### Planned Features
+Planned features:
 - Employee registration.
-- Employee identification numbers.
-- Login authentication.
-- Access permissions.
-- Employee information management.
-- Entry and exit records.
-- Administrator dashboard.
+- Employee identification.
+- Access permission management.
+- Login verification.
+- Employee record management.
 
-**Goal:** Learn how software can help organisations manage employee information and access securely.
+### 💰 4. Personal Budget Management System
+**Technology: Excel VBA**
 
----
+A budgeting application designed to help users manage their monthly finances.
 
-## 💰 04. PERSONAL BUDGET MANAGEMENT SYSTEM
-
-**Project Type:** Finance and Accounting  
-**Technology:** Microsoft Excel VBA
-
-A financial application designed to help users manage their monthly income, expenses and savings.
-
-### Features
-- Monthly income.
+Features:
+- Monthly income entry.
 - Expense tracking.
-- Savings calculations.
+- Automatic balance calculation.
+- Savings calculation.
 - Financial summaries.
-- Remaining balance calculations.
-- Interactive UserForms.
-
-**Goal:** Combine programming and financial management to create useful business applications.
 
 ---
 
-# 🛠️ PROGRAMMING LANGUAGES & TOOLS
+## 🛠️ TECHNOLOGIES AND TOOLS
 
-### Languages I'm Learning
+### Programming Languages
 
-<p align="center">
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Development Tools
 
-<p align="center">
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-</p>
+![CodeBlocks](https://img.shields.io/badge/Code::Blocks-000000?style=for-the-badge)
 
-### Other Technologies
-
-- Visual Basic for Applications (VBA)
-- Database Management
-- Problem Solving
-- Software Testing
-- Computer Fundamentals
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel)
 
 ---
 
-# 🧠 WHAT I'M EXPLORING
+## 🧠 AREAS OF INTEREST
 
-I'm particularly interested in discovering how different technologies work together.
-
-Some areas I want to explore further:
-
-- Artificial Intelligence and Machine Learning.
-- Financial Technology (FinTech).
-- Banking Automation.
-- Cybersecurity and Digital Protection.
-- Database Systems.
-- Cloud Computing.
-- Smart Business Applications.
+- Artificial Intelligence (AI).
 - Software Engineering.
+- Financial Technology (FinTech).
+- Banking Systems.
+- Database Management.
+- Cybersecurity.
+- Business Applications.
+- Automation and Technology.
 
 ---
 
-# 🎯 MY DEVELOPMENT ROADMAP
+## 📚 CURRENT LEARNING GOALS
 
-- [x] Start learning C++ programming.
-- [x] Develop beginner programming projects.
-- [x] Explore banking system development.
-- [ ] Complete my Banking Management System.
-- [ ] Develop my AI Life Companion.
-- [ ] Build an Employee Access Management System.
-- [ ] Improve my SQL and database skills.
-- [ ] Learn Python programming.
-- [ ] Explore Artificial Intelligence development.
-- [ ] Build professional software applications.
-- [ ] Contribute to open-source projects.
+- Improve my C++ programming skills.
+- Understand object-oriented programming.
+- Learn database design and SQL.
+- Develop interactive applications.
+- Understand artificial intelligence.
+- Improve problem-solving skills.
+- Build practical software development projects.
 
 ---
 
-# 📊 MY GITHUB STATISTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌍 LET'S CONNECT
-
-I'm always interested in learning, sharing ideas and exploring new possibilities in technology.
+## 📊 MY GITHUB STATISTICS
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=bmasuku519-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmasuku519-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages">
 
 </p>
 
 ---
 
-<div align="center">
+## 🔥 GITHUB CONTRIBUTION STREAK
 
-# 💡 MY MOTTO
+<p align="center">
 
-### "Dream It. Design It. Code It. Make It Happen."
+<img src="https://streak-stats.demolab.com?user=bmasuku519-ai&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
-**Learning never stops. Innovation has no limits.**
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00D9FF&height=120&section=footer"/>
+---
 
-⭐ THANK YOU FOR VISITING MY GITHUB PROFILE!
+## 👀 PROFILE VISITORS
 
-</div>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=bmasuku519-ai&style=for-the-badge&color=00D9FF" alt="Profile Views">
 
+</p>
+
+---
+
+<h3 align="center">
+  💡 THINK. CODE. CREATE. INNOVATE. 🚀
+</h3>
+
+<p align="center">
+  Thank you for visiting my GitHub profile!
+</p>
